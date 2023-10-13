@@ -36,26 +36,22 @@
 * loan (имеется ли кредит на личные нужды);
 * balance (баланс).
 
-[]: # 'Дата-сет используемый в анализе (RAR) - (https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/data_pr6.rar'
-
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/Bank_clients_classification/blob/main/README.md#Оглавление)
 
 ### Этапы работы над проектом
-1. #### Произвести предобработку исходного набора данных о транзакциях.
+1. #### Произвести предобработку исходного набора данных о клиентах банка.
 2. #### Провести разведывательный анализ данных и выявить основные закономерности.
 3. #### Сформировать набор данных о характеристиках каждого из уникальных клиентов.
-4. #### Построить несколько моделей машинного обучения, решающих задачу кластеризации клиентов, определить количество кластеров и проинтерпретировать их.
+4. #### Построить несколько моделей машинного обучения, решающих задачу классификации клиентов.
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/Bank_clients_classification/blob/main/README.md#Оглавление)
 
 ### Результат
-[Ноутбук с решением](https://github.com/AleksDEF/Bank_clients_classification/blob/main/Gift_shop_client_clusterization.ipynb)
+[Ноутбук с решением](https://github.com/AleksDEF/Bank_clients_classification/blob/main/Bank_clients_classification.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/Bank_clients_classification/blob/main/README.md#Оглавление)
 
 ### Выводы
-В результате исследования было выявленно 3 сегмента клиентов:
-* "Лояльные",  которые приносят наибольший доход, совершают покупки чаще всего, а давность их последней покупки небольшая.
-* "Промежуточные" , которые являются активными, но покупают не так часто и много, как лояльные клиенты. 
-* "Ушедшие", которые купили меньше всего товара, и их последняя покупка была совершена очень давно.
+
+
 
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/Bank_clients_classification/blob/main/README.md#Оглавление)
