@@ -36,7 +36,7 @@
 * loan (имеется ли кредит на личные нужды);
 * balance (баланс).
 
-[//] # Дата-сет используемый в анализе (RAR) - (https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/data_pr6.rar) 
+[Дата-сет используемый в анализе (RAR) - (https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/data_pr6.rar) ] # 
 
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/Bank_clients_classification/blob/main/README.md#Оглавление)
 
