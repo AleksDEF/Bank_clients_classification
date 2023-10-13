@@ -1,4 +1,4 @@
-# Классификация коиентов банка.
+# Классификация клиентов банка.
 
 ## Оглавление 
 [1. Описание проекта](https://github.com/AleksDEF/Bank_clients_classification/blob/main/README.md#Описание-проекта)
